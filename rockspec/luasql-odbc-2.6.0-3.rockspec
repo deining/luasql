@@ -1,8 +1,8 @@
 package = "LuaSQL-ODBC"
 version = "2.6.0-3"
 source = {
-  url = "git+https://github.com/lunarmodules/luasql.git",
-  branch = "2.6.0",
+  url = "git+https://github.com/deining/luasql",
+  branch = "master",
 }
 description = {
    summary = "Database connectivity for Lua (ODBC driver)",
